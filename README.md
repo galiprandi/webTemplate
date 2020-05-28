@@ -1,2 +1,4 @@
 # webTemplate
-Template for star website dev
+Template for star website development
+
+Documentation in progres...
